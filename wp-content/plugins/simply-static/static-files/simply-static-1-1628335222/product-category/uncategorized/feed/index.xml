@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Wiofy</title>
+	<atom:link href="http://localhost/wiofy/product-category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ysam020.github.io/Wiofy</link>
+	<description></description>
+	<lastBuildDate>Sat, 07 Aug 2021 08:36:52 +0000</lastBuildDate>
+	<language>en-GB</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8</generator>
+	<item>
+		<title>Conversation</title>
+		<link>https://ysam020.github.io/Wiofy/product/conversation/</link>
+					<comments>https://ysam020.github.io/Wiofy/product/conversation/#respond</comments>
+		
+		<dc:creator><![CDATA[ysam020]]></dc:creator>
+		<pubDate>Sat, 07 Aug 2021 02:53:52 +0000</pubDate>
+				<guid isPermaLink="false">https://ysam020.github.io/Wiofy/?post_type=product&#038;p=383</guid>
+
+					<description><![CDATA[Diam praesent urna ullamcorper orci cursus integer ullamcorper enim ac lorem scelerisque faucibus dignissim eget sapien fermentum sit facilisis augue at sollicitudin nulla vestibulum facilisi hendrerit.
+
+Elit sodales habitant vehicula turpis mauris ullamcorper suspendisse cursus habitant amet velit molestie nunc, morbi feugiat hendrerit commodo viverra in sed sagittis quam egestas dictum laoreet pellentesque lorem arcu amet amet pellentesque.]]></description>
+										<content:encoded><![CDATA[<p>Diam praesent urna ullamcorper orci cursus integer ullamcorper enim ac lorem scelerisque faucibus dignissim eget sapien fermentum sit facilisis augue at sollicitudin nulla vestibulum facilisi hendrerit.</p>
+<p>Elit sodales habitant vehicula turpis mauris ullamcorper suspendisse cursus habitant amet velit molestie nunc, morbi feugiat hendrerit commodo viverra in sed sagittis quam egestas dictum laoreet pellentesque lorem arcu amet amet pellentesque.</p>
+<p>Vitae feugiat proin ut ante rhoncus tortor varius faucibus suspendisse eget ipsum aenean non sapien nullam.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ysam020.github.io/Wiofy/product/conversation/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Arctic Campfire</title>
+		<link>https://ysam020.github.io/Wiofy/product/arctic-campfire/</link>
+					<comments>https://ysam020.github.io/Wiofy/product/arctic-campfire/#respond</comments>
+		
+		<dc:creator><![CDATA[ysam020]]></dc:creator>
+		<pubDate>Sat, 07 Aug 2021 02:52:46 +0000</pubDate>
+				<guid isPermaLink="false">https://ysam020.github.io/Wiofy/?post_type=product&#038;p=378</guid>
+
+					<description><![CDATA[Diam praesent urna ullamcorper orci cursus integer ullamcorper enim ac lorem scelerisque faucibus dignissim eget sapien fermentum sit facilisis augue at sollicitudin nulla vestibulum facilisi hendrerit.
+
+Elit sodales habitant vehicula turpis mauris ullamcorper suspendisse cursus habitant amet velit molestie nunc, morbi feugiat hendrerit commodo viverra in sed sagittis quam egestas dictum laoreet pellentesque lorem arcu amet amet pellentesque.]]></description>
+										<content:encoded><![CDATA[<p>Diam praesent urna ullamcorper orci cursus integer ullamcorper enim ac lorem scelerisque faucibus dignissim eget sapien fermentum sit facilisis augue at sollicitudin nulla vestibulum facilisi hendrerit.</p>
+<p>Elit sodales habitant vehicula turpis mauris ullamcorper suspendisse cursus habitant amet velit molestie nunc, morbi feugiat hendrerit commodo viverra in sed sagittis quam egestas dictum laoreet pellentesque lorem arcu amet amet pellentesque.</p>
+<p>Vitae feugiat proin ut ante rhoncus tortor varius faucibus suspendisse eget ipsum aenean non sapien nullam.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ysam020.github.io/Wiofy/product/arctic-campfire/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
